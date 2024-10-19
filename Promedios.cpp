@@ -1,7 +1,7 @@
 /*Implementa una clase Estudiante con los atributos nombre, edad, y calificacion.
- El programa debe permitir al usuario ingresar la información de varios estudiantes, 
+ El programa debe permitir al usuario ingresar la informaciÃ³n de varios estudiantes, 
  almacenarlos en un arreglo o vector, y luego mostrar la lista completa de estudiantes 
- con sus calificaciones. Adicionalmente, implementa un método que calcule y muestre el
+ con sus calificaciones. Adicionalmente, implementa un mÃ©todo que calcule y muestre el
  promedio de las calificaciones ingresadas.*/
  #include<iostream>
  #include<string>
